@@ -1,5 +1,5 @@
-<h1 align="center">Hi There👋,</h1>
-<h3 align="center">Mobile App and Web developer</h3>
+<h4 align="left">Hi There👋,</h4>
+<h6 align="left">Mobile App and Web developer</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruby405&label=Profile%20views&color=0e75b6&style=flat" alt="ruby405" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Mobile App and Web developer**
 
-<h3 align="left">Contact:</h3>
+<h4 align="left">Contact:</h4>
 
 - 📫 mail: rykerwilson246@gmail.com
 
